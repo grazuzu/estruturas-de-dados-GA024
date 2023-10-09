@@ -15,7 +15,7 @@ mathjax: true
 Simulação da evolução da concentração de poluentes devido a um derramamento tóxico. O trabalho deve utilizar matrizes dinamicamente alocadas para representar uma ilha na qual existe uma fonte de poluição no solo.
 
 ## Tarefa:
-* Os dados que descrevem a geometria do problema são dados no arquivo data.txt;
+* Os dados que descrevem a geometria do problema são dados no arquivo **data.txt**;
 * A primeira linha do arquivo indica o número de linhas e a segunda indica o número de colunas;
 
 ### Funções:
@@ -56,7 +56,7 @@ Simulação da evolução da concentração de poluentes devido a um derramament
 Implementar uma estrutura de árvore binária AVL.
 
 ## Tarefa:
-* O programa de ter um menu com as seguintes opções:
+* O programa deve ter um menu com as seguintes opções:
     1. Incluir valor
     2. Excluir valor
     3. Buscar valor
