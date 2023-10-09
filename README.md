@@ -59,5 +59,4 @@ Implementar uma estrutura de árvore binária AVL.
 * O programa deve ter um menu com as seguintes opções:
     1. Incluir valor
     2. Excluir valor
-    3. Buscar valor
-    4. Imprimir árvore
+    3. Imprimir árvore
